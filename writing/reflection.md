@@ -19,7 +19,7 @@ What improvement(s) did you add to your copy of the source code?
 
 ## Q4
 
-What sequences and references did you select for your getetic drift experiment?
+What sequences and references did you select for your genetic drift experiment?
 
 ## Q5
 

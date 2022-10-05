@@ -25,12 +25,16 @@
 # Install Biopython command:
 #   pip install biopython
 
-# Run a Python script program in virtual environment
-# command:
-#   python3 <<scriptName.py>>
+# Install the Black reformatting library
+# inside the virtual environment
+#   pip install black
 
 # Check your code's formatting with Black
 #   python3 -m black <<scriptName.py>>
+
+# Run a Python script program in virtual environment
+# command:
+#   python3 <<scriptName.py>>
 
 DATE = "4 Oct 2022"
 VERSION = "0.0.3"

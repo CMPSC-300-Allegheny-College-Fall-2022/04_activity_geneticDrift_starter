@@ -37,4 +37,4 @@ Or, could you improve the code by adding functionality to process more than two 
 
 ## Assessment
 
-This grade is a checkmark.
+This grade is a check mark.

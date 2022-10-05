@@ -29,8 +29,11 @@ Or, could you improve the code by adding functionality to process more than two 
 ### Genetic Drift Study
 
 + Select any ten related nucleotide sequences from [NCBI](https://www.ncbi.nlm.nih.gov/).
+
 + Prepare this data in files or as sequences to be used with your improved tool to provide  proof for __Genetic Drift__ across species. Your study can use any related sequences.
 
++ Address `writing/reflection.md`
+  
 ### Present your work
 
 + Come to class with about two slides to explain your improvements to the tool and to discuss your experiments.
